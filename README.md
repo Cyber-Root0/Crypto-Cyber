@@ -7,7 +7,7 @@
 Crypto-Cyber é uma ferramenta Poderosa de Criptografia que tem possui tecnologias utilizadas com base64 e ofuscação de codigo, pode ser usada em diversos meios como strings, senhas, emails entre outros dados importantes a não serem desvendados.
 
 ## MENU:
-![Interface Do Crypto-Cyber](https://raw.githubusercontent.com/Cyber-Root0/BypassPlayProtect/main/Midia/bypass-play-protect.png)
+![Interface Do Crypto-Cyber](https://raw.githubusercontent.com/Cyber-Root0/Crypto-Cyber/main/crypto.png)
 
 
 
