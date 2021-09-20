@@ -24,6 +24,6 @@ Crypto-Cyber é uma ferramenta Poderosa de Criptografia que tem possui tecnologi
 
 ## Redes Sociais (Contato):
 
-Email: boteistem@gmail.com
+Email: boteistem@yandex.com
 
 
